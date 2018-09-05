@@ -1,0 +1,1 @@
+Receive your friend gifts until you reach the max. It reconnects on connection loss and does nothing when crashing.
