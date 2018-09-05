@@ -2,9 +2,9 @@
 
 I offer a collection of Macros, mainly for TMR farming and Explorations, but also have a few odd ones for the following resolution settings in your emulator:
 
-* **1280x720 Memu in forced portrait mode**
-* **720x1280 Memu**
-* *720x1280 Nox -as is*
+* **1280x720 (192dpi) Memu in forced portrait mode**
+* **720x1280 (192dpi) Memu**
+* *720x1280 (192dpi) Nox -as is*
 
 **The specified resolution needs to be set in your emulator for the macros to work!**
 
