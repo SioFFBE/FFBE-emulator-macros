@@ -49,7 +49,7 @@ I offer a collection of Macros, mainly for TMR farming and Explorations, but als
 * clear daily quests
 * tested for FFBE GL 3.0.2 (watch for UI-Changes, these can create issues)
 
-# How to install a macro (Memu -new way)
+# How to install a macro (Memu -new way, 5.5.8 and up)
 
 Download the .scp file of the macro you want to use. Use the import function in "Operation Record". Macro and settings will be imported. Please double check them to see if they fit your needs.
 
