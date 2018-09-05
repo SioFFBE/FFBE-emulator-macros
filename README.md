@@ -64,3 +64,23 @@ To have the macro repeat until manually stopped, set **Times** to **0**. "Unlimi
 # How to install a macro (Nox)
 
 Open the one you want to use from down below. Press Win+R and enter %appdata%, go up one to AppData, open Local, open Nox, open record. Open Nox and click the Macro button. Record a small macro by pressing the play button, clicking anywhere within Nox and click stop. Rename the Macro to whatever you like. Go back to the record folder we have opened, a new file should be there (show creation date can help identify macros if you have many of them). Open the Macro with an editor (I guess Notepad is fine, I would advise Notepad++ though). Copy and paste everything from the macro file into your file and save it. There is no need for a blank line in my macros.
+
+# MEMU ONLY: Need specific help that goes beyond a simple request or question?
+
+**Contact me on discord. I set up a little server here: [https://discord.gg/qd3W5aP](https://discord.gg/qd3W5aP)**
+
+# Final stuff
+
+*Need help setting up? Take a look* [*here*](https://redd.it/6prfxs) *for a Memu guide.*
+
+If you need a specific exploration macro or a certain version, send me a PM and we can talk about it!
+
+# Error/Problem report template:
+
+**Please use this, it helps me find problems much faster and avoid the guessing/asking game. Provide as much information as you can!**
+
+* Resolution: 1280x720 / 720x1280
+* Android version: 4, 5 or 7?
+* Specific Macro:  The exact file name!
+* Problem:  too fast / missing a click / whatever
+* When does it occur:  screen / part of the exploration / whatever
