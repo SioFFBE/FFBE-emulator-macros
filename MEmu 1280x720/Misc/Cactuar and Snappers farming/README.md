@@ -1,14 +1,7 @@
-Farms *Gil Snapper's Cave - Golden Cavern* or *Cactuar Dunes - Paradise* using repeat.
+Farms *Gil Snapper's Cave - Golden Cavern* or *Cactuar Dunes - Paradise* using repeat with full crash recovery etc.
 
-Unit 3 auto attacks
+* **Not tested for crash safety with item world running**
+* **In theory, it could enter a lower stage than intended** If it can actually happen, it's very rare, but you were warned.
+* Unit 2+3 auto attack, rest uses repeat action
 
-**There are several limitations:**
-
-No friend request decline
-No reconnect on connection error
-No refill or back (stuck when out of energy)
-No daily clear
-**Not tested for crash safety with item world running**
-
-
-**Make sure to have plenty of unit space and fiends or you will get stuck.**
+Make sure to have plenty of unit space :)
