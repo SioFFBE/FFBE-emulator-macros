@@ -8,4 +8,3 @@
 * Friend unit is not activated at all. So if you don't OTK, you get stuck. Account for variance in attacks.
 * Unit 2+3 auto attacks, rest will repeat the last action you setup (Waylay and such).
 * The artificial pauses are for safety reasons.
-* **Always bring a friend with you for the NoRefill version! So no filters!**
