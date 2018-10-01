@@ -42,20 +42,30 @@ I offer a collection of Macros, mainly for TMR farming and Explorations, but als
 
 # Features
 
-* recover from crash while in combat for *most macros*. If you crash out of combat, the macro will get stuck
-* get stuck on emulator home screen after crash for *Explorations* (if you followed my [Home Screen Template](https://imgur.com/a/D4GIu))
-* click away connection loss
-* decline friend requests
-* clear daily quests
-* tested for FFBE GL 3.0.2 (watch for UI-Changes, these can create issues)
+* Recover from crash while in combat for *most macros*. If you crash out of combat, the macro will get stuck
+* Get stuck on emulator home screen after crash for *Explorations* (if you followed my [Home Screen Template](https://imgur.com/a/D4GIu))
+* Click away connection loss
+* Decline friend requests
+* Clear daily quests
+* Tested for FFBE GL 3.0.2 (watch for UI-Changes, these can create issues)
 
 # How to install a macro (Memu 5.5.8+ -new way, 720x1280 only for now)
 
-Download the .scp file of the macro you want to use. Use the import function in "Operation Record". Macro and settings will be imported. Please double check them to see if they fit your needs. If this is a popular way to install the macros, I will also offer this for 1280x720. Give me feedback.
+* Download the .scp file of the macro you want to use.
+* Use the import function in "Operation Record". Macro and settings will be imported.
+
+Please double check them to see if they fit your needs. If this is a popular way to install the macros, I will also offer this for 1280x720. Give me feedback.
 
 # How to install a macro (Memu -old way)
 
-Open the one you want to use from down below and open your Memu folder. If you used the standard installation path this should be "C:\\Program Files\\Microvirt\\MEmu". Open the folder "Scripts". Open Memu. (Make the "Operation Record" button visible.) Record a small macro by pressing the record button, clicking anywhere within Memu and click stop. Rename the Macro to whatever you like. Go back to the Scripts folder we have opened, a new file should be there (show creation date can help identify macros if you have many of them). Open the Macro with an editor (I guess Notepad is fine, I would advise Notepad++ though). Copy and paste everything from the macro file into your file and save it. There is no need for a blank line in my macros.
+* Open the one you want to use from down below and open your Memu folder. If you used the standard installation path this should be "C:\\Program Files\\Microvirt\\MEmu".
+* Open the folder "Scripts".
+* Open Memu. (Make the "Operation Record" button visible.)
+* Record a small macro by pressing the record button, clicking anywhere within Memu and click stop.
+* Rename the Macro to whatever you like.
+* Go back to the Scripts folder we have opened, a new file should be there (show creation date can help identify macros if you have many of them).
+* Open the Macro with an editor (I guess Notepad is fine, I would advise Notepad++ though).
+* Copy and paste everything from the macro file into your file and save it. There is no need for a blank line in my macros.
 
 # Macro settings (Memu -old way)
 
@@ -63,7 +73,13 @@ To have the macro repeat until manually stopped, set **Times** to **0**. "Unlimi
 
 # How to install a macro (Nox)
 
-Open the one you want to use from down below. Press Win+R and enter %appdata%, go up one to AppData, open Local, open Nox, open record. Open Nox and click the Macro button. Record a small macro by pressing the play button, clicking anywhere within Nox and click stop. Rename the Macro to whatever you like. Go back to the record folder we have opened, a new file should be there (show creation date can help identify macros if you have many of them). Open the Macro with an editor (I guess Notepad is fine, I would advise Notepad++ though). Copy and paste everything from the macro file into your file and save it. There is no need for a blank line in my macros.
+* Open the one you want to use from down below.
+* Press Win+R and enter %appdata%, go up one to AppData, open Local, open Nox, open record.
+* Open Nox and click the Macro button.
+* Record a small macro by pressing the play button, clicking anywhere within Nox and click stop.
+* Rename the Macro to whatever you like. Go back to the record folder we have opened, a new file should be there (show creation date can help identify macros if you have many of them).
+* Open the Macro with an editor (I guess Notepad is fine, I would advise Notepad++ though).
+* Copy and paste everything from the macro file into your file and save it. There is no need for a blank line in my macros.
 
 # MEMU ONLY: Need specific help that goes beyond a simple request or question?
 
