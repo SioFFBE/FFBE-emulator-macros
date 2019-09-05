@@ -1,0 +1,5 @@
+This version refills using NRG Potions. It will NOT restart after a crash but get stuck on your home screen. It will use more than one potion when refilling, how many kind of depends on your energy max. A little over half your energy bar. There are a few drawbacks with using NRG potions that remain. Almost always will enter the 2nd to last stage of a mission. Very rarely enters a weaker one. There is a tiny chance that it will enter the LAST stage of a mission, which could potentially be an Exploration. So it will get stuck in there. Also, as it uses the Back button to get out of the Item screen, there is a small chance that it will drop you back to the World screen. If possible arrange your world screen accordingly, so it won't enter anything unintended.
+
+This will not use the friend unit but unit 2+3 for regular attack, so prepare units 1, 4 and 5 however you want it (meaning do their action).
+
+If it crashes outside of combat, it will reset your 10 items usage inventory, so keep an eye on that.
